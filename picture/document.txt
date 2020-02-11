@@ -1,0 +1,10 @@
+Connect to AWS account, get live Diagram cover major compute,
+Able to convert to draw.io chart
+ 
+The generated diagram focus on resources in Compute, Storage, Networking, Database. 
+on IAM Roles/Policy, logging and monitor, 
+https://console.aws.amazon.com/iam/home?#/roles$new?step=type&roleType=crossAccount&isThirdParty&accountID=968898580625&externalID=df69a59b-875a-4f73-843a-3aa134b46321&roleName=cloudcraft&policies=arn:aws:iam::aws:policy%2FReadOnlyAccess
+Role type: Another AWS account
+Account ID: 968898580625 
+The box for Require external ID is checked
+External ID: df69a59b-875a-4f73-843a-3aa134b46321
